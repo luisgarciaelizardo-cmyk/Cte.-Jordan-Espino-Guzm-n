@@ -51,18 +51,21 @@ img {
 
 .header-inner {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-between;
-  padding: 14px 20px;
-  flex-wrap: wrap;
-  gap: 10px;
+  justify-content: center;
+  text-align: center;
+  padding: 18px 20px;
+  gap: 12px;
 }
 
 .brand {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 14px;
   flex-wrap: wrap;
+  text-align: center;
 }
 
 .brand-logos {
@@ -88,6 +91,7 @@ img {
 .brand-text {
   display: flex;
   flex-direction: column;
+  align-items: center;
   line-height: 1.2;
 }
 
@@ -104,6 +108,7 @@ img {
 
 .main-nav {
   display: flex;
+  justify-content: center;
   gap: 22px;
   flex-wrap: wrap;
 }
@@ -123,8 +128,9 @@ img {
 .hero {
   background: linear-gradient(160deg, var(--blue-900), var(--blue-700) 70%);
   color: var(--white);
-  padding: 70px 0 80px;
+  padding: 100px 0 100px;
   text-align: center;
+  scroll-margin-top: 110px;
 }
 
 .hero-emblem img {
@@ -190,7 +196,8 @@ img {
 
 /* Sections */
 .section {
-  padding: 60px 0;
+  padding: 90px 0;
+  scroll-margin-top: 110px;
 }
 
 .section-title {
@@ -290,9 +297,3 @@ img {
   object-fit: contain;
 }
 
-@media (max-width: 480px) {
-  .header-inner {
-    flex-direction: column;
-    text-align: center;
-  }
-}
