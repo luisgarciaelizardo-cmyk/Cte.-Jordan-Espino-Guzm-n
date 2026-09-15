@@ -1,10 +1,6 @@
 # Logos
 
-Coloca aquí los archivos de logo que quieras mostrar en la página:
+- `logo-policia.png` — escudo de la Policía Municipal de Saltillo (fondo transparente). Se usa en el encabezado, el emblema principal, el pie de página y el favicon.
+- `logo-comisaria.png` — logo de la Comisaría de Seguridad y Protección Ciudadana (fondo azul institucional). Se usa junto al escudo en el encabezado.
 
-- `logo.png` — logo principal (se usa en el encabezado, el pie de página y como favicon).
-- `escudo.png` — escudo/emblema (se usa en la sección principal / hero). Si no existe, la página usará automáticamente `logo.png` en su lugar.
-
-Formato recomendado: PNG con fondo transparente, tamaño mínimo de 300x300 px.
-
-Una vez que subas los archivos con estos nombres a esta carpeta, se mostrarán automáticamente en la página sin necesidad de modificar el código.
+Si quieres reemplazar alguno, sube el nuevo archivo con el mismo nombre a esta carpeta.

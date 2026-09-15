@@ -7,7 +7,7 @@ Página web de contacto para el Cte. Jordan Espino Guzmán, Director de la Polic
 - `index.html` — página principal.
 - `assets/css/styles.css` — estilos (tema azul).
 - `assets/js/script.js` — script auxiliar.
-- `assets/images/` — logos y escudo (ver `assets/images/README.md` para agregar los archivos).
+- `assets/images/` — logos oficiales (ver `assets/images/README.md`).
 
 ## Información de contacto incluida
 
@@ -21,6 +21,6 @@ Página web de contacto para el Cte. Jordan Espino Guzmán, Director de la Polic
 2. En "Branch", selecciona la rama principal (`main`) y la carpeta `/ (root)`.
 3. Guarda los cambios; GitHub Pages publicará la página en unos minutos.
 
-## Agregar los logos
+## Reemplazar los logos
 
-Sube tus archivos de logo a `assets/images/` con los nombres `logo.png` y `escudo.png` (ver instrucciones en `assets/images/README.md`). La página los mostrará automáticamente.
+Para actualizar algún logo, sube el nuevo archivo a `assets/images/` usando el mismo nombre (`logo-policia.png` o `logo-comisaria.png`). Ver detalles en `assets/images/README.md`.
