@@ -1,6 +1,6 @@
-# Cte. Jordan Espino Guzmán — Policía Municipal de Saltillo
+# Cmte. Jordan Espino Guzmán — Policía Municipal de Saltillo
 
-Página web de contacto para el Cte. Jordan Espino Guzmán, Director de la Policía Municipal de Saltillo.
+Página web de contacto para el Cmte. Jordan Espino Guzmán, Director de la Policía Municipal de Saltillo.
 
 ## Contenido
 
